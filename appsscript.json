@@ -1,0 +1,13 @@
+{
+    "timeZone": "America/Toronto",
+    "dependencies": {},
+    "webapp": {
+      "executeAs": "USER_ACCESSING",
+      "access": "ANYONE"
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "executionApi": {
+      "access": "ANYONE"
+    },
+    "runtimeVersion": "V8"
+  }
