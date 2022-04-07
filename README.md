@@ -13,6 +13,8 @@ I've done my best to make this script as user-friendly as possible. Below, you w
 
 4. Navigate to *Extensions* > Google Apps Script. Copy & Paste the contents of all these files into the Google Apps Script screen.
 
+**You can also create a copy template for yourself by clicking the website link to the right.**
+
 ## Usage
 
 You will find a new menu titled *List Tracker* when the document opens. You can find all the functions the script has to offer conveniently in this nifty menu. Let's go through the options. This script was created with adaptability amd flexibility in mind.
@@ -41,3 +43,8 @@ You may also stop receiving email notifications at any point by selecting `Unsub
 You will find options to generate the document properties, to delete document properties and deelete the Activity Log. Clearing the log and properties will affect how information is generated in the Activity Log. As a preventative measure, you will receive a confirmation box to confirm your decision. Clearing the Activity Log will also uncheck all the boxes.
 
 By toggling `Reset Log Daily`, you can have the log reset at the end of every day. It will uncheck all the boxes, clear the Activity Log and Delete the Document Properties for you.
+
+## Coming Soon
+
+- Allow the script to create the tabs for you
+- Create a dedicated folder for the logs. At this time, it will add the logs to any folder named *List Tracker*. This can be problematic to know which one it actually goes into.
